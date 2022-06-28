@@ -174,7 +174,7 @@ def verificar(jogo):
 
 def main():
 
-  tamanho = (6,7) #serve pra setar o tamanho do jogo
+  tamanho = (6,6) #serve pra setar o tamanho do jogo
 
   jogo = ini_matriz(tamanho)
 
