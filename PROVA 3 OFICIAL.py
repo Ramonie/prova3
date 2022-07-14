@@ -216,7 +216,7 @@ def main():
 
   print('O jogador', ganhou,' venceu!!')
 
-  return 0
+  return main
 
 if __name__ == "__main__":
 
